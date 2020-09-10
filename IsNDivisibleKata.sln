@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsNDivisibleKata", "IsNDivisibleKata\IsNDivisibleKata.csproj", "{151C7E06-140D-446B-B397-42AB8937D57B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151C7E06-140D-446B-B397-42AB8937D57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151C7E06-140D-446B-B397-42AB8937D57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151C7E06-140D-446B-B397-42AB8937D57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151C7E06-140D-446B-B397-42AB8937D57B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8422F22D-EFDE-4647-88B1-2A9B782C71F3}
+	EndGlobalSection
+EndGlobal
